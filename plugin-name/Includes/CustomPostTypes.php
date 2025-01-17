@@ -2,7 +2,7 @@
 
 namespace PluginName\Includes;
 
-class PluginNameCPT{
+class CustomPostTypes{
 
     public function initializeHooks(): void
     {

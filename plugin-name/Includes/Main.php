@@ -7,7 +7,7 @@ use PluginName\Admin\Settings;
 use PluginName\Admin\NetworkSettings;
 use PluginName\Frontend\Frontend;
 use PluginName\Includes\Ajax;
-use PluginName\Includes\PluginNameCPT;
+use PluginName\Includes\CustomPostTypes;
 use PluginName\Includes\RewriteRules;
 
 // If this file is called directly, abort.
@@ -56,7 +56,7 @@ class Main
         $ajax = new Ajax($this->pluginSlug, $this->settings);
         $ajax->initializeHooks();
 
-        $cpt = new PluginNameCPT();
+        $cpt = new CustomPostTypes();
         $cpt->initializeHooks();
     }
 
