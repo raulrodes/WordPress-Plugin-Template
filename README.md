@@ -1,4 +1,9 @@
-### Wordpress Plugin Template based on [@adamradocz] (https://www.github.com/adamradocz) [@DevinVinson] (https://www.github.com/DevinVinson) [@tommcfarlin] (https://www.github.com/tommcfarlin) and others.
+### Wordpress Plugin Template based on work from:
+
+[@adamradocz](https://www.github.com/adamradocz)<br>
+[@DevinVinson](https://www.github.com/DevinVinson)<br>
+[@tommcfarlin](https://www.github.com/tommcfarlin)<br>
+and others.
 
 We've added a few new features:
 * Ajax class template
