@@ -1,0 +1,14 @@
+- CRON
+https://github.com/DevinVinson/WordPress-Plugin-Boilerplate/blob/6fd0982556964764585306d52cc1c6b18ec919a0/plugin-name/includes/class-plugin-name-cron.php
+
+- LOADER
+https://github.com/iastate-coe/wp-plugin-boilerplate/blob/iastate-engineering/plugin-name/includes/class-plugin-name-loader.php
+https://github.com/iastate-coe/wp-plugin-boilerplate/blob/iastate-engineering/plugin-name/includes/class-plugin-name.php
+
+- WP_REST
+https://github.com/iastate-coe/wp-plugin-boilerplate/tree/iastate-engineering/plugin-name/wp-json
+
+- WP_CLI
+https://github.com/iastate-coe/wp-plugin-boilerplate/blob/iastate-engineering/plugin-name/wp-cli/class-plugin-name-wp-cli-command.php
+
+- UPDATER

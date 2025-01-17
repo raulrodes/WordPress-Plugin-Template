@@ -1,3 +1,11 @@
+### Wordpress Plugin Template based on [@adamradocz] (https://www.github.com/adamradocz) [@DevinVinson] (https://www.github.com/DevinVinson) [@tommcfarlin] (https://www.github.com/tommcfarlin) and others.
+
+We've added a few new features:
+* Ajax class template
+* Shortcode class template
+* CPT class template
+* Rewrite rules template
+
 # WordPress Plugin Boilerplate
 
 A standardized, organized, object-oriented foundation for building high-quality WordPress Plugins.
@@ -17,11 +25,11 @@ The WordPress Plugin Boilerplate includes the following files:
 * The Boilerplate uses a strict file organization scheme that similar to the WordPress Plugin Repository structure, and that makes it easy to organize the files that compose the plugin.
 * The project includes [a `.pot` file](https://github.com/fxbenard/Blank-WordPress-Pot) as a starting point for internationalization.
 * Contatains templates for:
-  * [Admin menu](https://codex.wordpress.org/Adding_Administration_Menus)
-  * [Settings](https://codex.wordpress.org/Settings_API)
-  * [Shortcode](https://codex.wordpress.org/Shortcode_API) as a Form and how to pass data from a Javascript and return data back.
-  * [Multisite support](https://wordpress.org/support/article/create-a-network/)
-  * [Network Settings](https://codex.wordpress.org/Plugin_API/Action_Reference/network_admin_menu)
+    * [Admin menu](https://codex.wordpress.org/Adding_Administration_Menus)
+    * [Settings](https://codex.wordpress.org/Settings_API)
+    * [Shortcode](https://codex.wordpress.org/Shortcode_API) as a Form and how to pass data from a Javascript and return data back.
+    * [Multisite support](https://wordpress.org/support/article/create-a-network/)
+    * [Network Settings](https://codex.wordpress.org/Plugin_API/Action_Reference/network_admin_menu)
 
 ## Installation
 

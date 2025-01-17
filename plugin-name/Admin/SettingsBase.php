@@ -1,7 +1,5 @@
 <?php
 
-declare(strict_types=1);
-
 namespace PluginName\Admin;
 
 // If this file is called directly, abort.
